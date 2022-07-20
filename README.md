@@ -6,7 +6,7 @@ Custom configuration I've built over time.
 
 Symlink it to appropiate files
  
-Eg:    ln -sf .dotfiles/.bashrc ~/.bashrc 
+    ln -sf .dotfiles/.bashrc ~/.bashrc 
 
 ## Need Help 
 
