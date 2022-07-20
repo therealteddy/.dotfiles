@@ -1,2 +1,2 @@
 filetype plugin on
-colorscheme nord
+colorscheme dracula
